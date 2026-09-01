@@ -12,3 +12,4 @@ https://docs.veracode.com/r/GitHub_Workflow_Integration_for_Repo_Scanning
 Ruby
 .net 6
 .net 8
+Go
