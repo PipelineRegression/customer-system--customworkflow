@@ -11,8 +11,10 @@ For guidance on installing the Veracode Workflow Application and additional info
 https://docs.veracode.com/r/GitHub_Workflow_Integration_for_Repo_Scanning
 Ruby
 .net 6
+.NET 7
 .net 8
 Go
 Java
 kotlin 
 PHP
+
